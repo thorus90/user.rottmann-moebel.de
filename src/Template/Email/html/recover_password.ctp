@@ -1,0 +1,1 @@
+../../../../submodules/userControl/Template/Email/html/recover_password.ctp

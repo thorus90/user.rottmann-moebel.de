@@ -1,0 +1,1 @@
+../../../submodules/mediascore/Template/Mediascores/search.ctp

@@ -1,0 +1,1 @@
+../../../submodules/passwords/js/magnific-popup.js

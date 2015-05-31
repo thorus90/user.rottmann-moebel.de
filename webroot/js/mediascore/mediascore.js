@@ -1,0 +1,1 @@
+../../../submodules/mediascore/webroot/js/mediascore/mediascore.js

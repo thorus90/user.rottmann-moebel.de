@@ -1,0 +1,15 @@
+[submodule "submodules/userControl"]
+	path = submodules/userControl
+	url = ssh://git@server.intranet.jr0.de/~/userControl.git
+[submodule "submodules/passwords"]
+	path = submodules/passwords
+	url = ssh://git@server.intranet.jr0.de/~/passwords.git
+[submodule "submodules/bootstrap-jquery"]
+	path = submodules/bootstrap-jquery
+	url = ssh://git@server.intranet.jr0.de/~/bootstrap-jquery.git
+[submodule "submodules/mediascore"]
+	path = submodules/mediascore
+	url = ssh://git@server.intranet.jr0.de/~/mediascore.git
+[submodule "submodules/locate-tracker-webfrontend"]
+	path = submodules/locate-tracker-webfrontend
+	url = ssh://git@server.intranet.jr0.de/~/locate-tracker-webfrontend.git

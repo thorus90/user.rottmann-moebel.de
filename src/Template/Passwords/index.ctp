@@ -1,0 +1,1 @@
+../../../submodules/passwords/Template/Passwords/index.ctp

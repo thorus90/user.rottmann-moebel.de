@@ -1,0 +1,1 @@
+../../../submodules/userControl/Template/Users/set_new_password.ctp

@@ -1,0 +1,1 @@
+../../../../submodules/mediascore/Template/Element/Mediascore/navbar.ctp
