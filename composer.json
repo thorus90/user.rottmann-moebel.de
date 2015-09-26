@@ -20,7 +20,7 @@
         "cakephp/cakephp": "~3.0",
         "cakephp/migrations": "~1.0",
         "cakephp/plugin-installer": "*",
-        "holt59/cakephp3-bootstrap3-helpers": "dev-master",
+        "holt59/cakephp3-bootstrap-helpers": "dev-master",
         "mobiledetect/mobiledetectlib": "2.*",
         "php": ">=5.4.16"
     },

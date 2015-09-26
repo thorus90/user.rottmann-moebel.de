@@ -6,7 +6,9 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/">Hive</a>
+            <?php
+                echo $this->Html->link('Hive', [ 'controller' => 'Pages' , 'action' => 'display', 'dashboard' ], [ 'class' => 'navbar-brand' ]);
+            ?>
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
