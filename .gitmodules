@@ -1,15 +1,15 @@
 [submodule "submodules/userControl"]
 	path = submodules/userControl
-	url = ssh://user-management@git1.itheld.eu/cakephp/user-management.git
+	url = git@server:~/userControl.git
 [submodule "submodules/passwords"]
 	path = submodules/passwords
-	url = ssh://pwtool@git1.itheld.eu/cakephp/pwtool.git
+	url = git@server:~/passwords.git
 [submodule "submodules/bootstrap-jquery"]
 	path = submodules/bootstrap-jquery
-	url = ssh://bootstrap-jquery@git1.itheld.eu/cakephp/bootstrap-jquery.git
+	url = git@server:~/bootstrap-jquery.git
 [submodule "submodules/mediascore"]
 	path = submodules/mediascore
-	url = ssh://git@server.intranet.jr0.de/~/mediascore.git
+	url = git@server:~/mediascore.git
 [submodule "submodules/locate-tracker-webfrontend"]
 	path = submodules/locate-tracker-webfrontend
-	url = ssh://git@server.intranet.jr0.de/~/locate-tracker-webfrontend.git
+	url = git@server:~/locate-tracker-webfrontend.git
